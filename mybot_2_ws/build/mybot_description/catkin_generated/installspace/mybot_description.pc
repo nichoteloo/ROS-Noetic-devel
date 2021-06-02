@@ -1,0 +1,8 @@
+prefix=/home/nichotelo/ros/mybot_2_ws/install
+
+Name: mybot_description
+Description: Description of mybot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
