@@ -1,0 +1,8 @@
+prefix=/home/nichotelo/ros/mybot_ws/devel
+
+Name: nonlinear_controller
+Description: Description of nonlinear_controller
+Version: 0.0.0
+Cflags: -I/home/nichotelo/ros/mybot_ws/src/nonlinear_controller/include
+Libs: -L${prefix}/lib -lnonlinear_controller
+Requires: pluginlib roscpp

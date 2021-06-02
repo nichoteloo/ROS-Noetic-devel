@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11  -shared -Wl,-soname,libgazebo_contact_tutorial.so -o /home/nichotelo/ros/mybot_ws/devel/lib/libgazebo_contact_tutorial.so CMakeFiles/gazebo_contact_tutorial.dir/ContactPlugin.cc.o 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nichotelo/ros/mybot_ws/src/pluginlib_tutorials/include/pluginlib_tutorials/polygon_base.h
+
+/home/nichotelo/ros/mybot_ws/src/pluginlib_tutorials/src/polygon_loader.cpp
+pluginlib/class_loader.h
+-
+pluginlib_tutorials/polygon_base.h
+-
+

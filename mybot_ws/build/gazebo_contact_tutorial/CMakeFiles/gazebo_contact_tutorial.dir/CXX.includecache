@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nichotelo/ros/mybot_ws/src/gazebo_contact_tutorial/ContactPlugin.cc
+ContactPlugin.hh
+/home/nichotelo/ros/mybot_ws/src/gazebo_contact_tutorial/ContactPlugin.hh
+
+/home/nichotelo/ros/mybot_ws/src/gazebo_contact_tutorial/ContactPlugin.hh
+string
+-
+gazebo/gazebo.hh
+-
+gazebo/sensors/sensors.hh
+-
+

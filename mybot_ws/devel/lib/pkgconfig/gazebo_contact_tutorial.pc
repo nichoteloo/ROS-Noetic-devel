@@ -1,0 +1,8 @@
+prefix=/home/nichotelo/ros/mybot_ws/devel
+
+Name: gazebo_contact_tutorial
+Description: Description of gazebo_contact_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
