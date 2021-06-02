@@ -1,0 +1,19 @@
+(cl:defpackage gtec_msgs-msg
+  (:use )
+  (:export
+   "<DWRANGING>"
+   "DWRANGING"
+   "<GENERICRANGING>"
+   "GENERICRANGING"
+   "<POZYXRANGING>"
+   "POZYXRANGING"
+   "<POZYXRANGINGWITHCIR>"
+   "POZYXRANGINGWITHCIR"
+   "<RANGING>"
+   "RANGING"
+   "<RANGINGDIFF>"
+   "RANGINGDIFF"
+   "<UWBRANGING>"
+   "UWBRANGING"
+  ))
+

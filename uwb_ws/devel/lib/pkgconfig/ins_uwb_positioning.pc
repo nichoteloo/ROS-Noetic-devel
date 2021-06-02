@@ -1,0 +1,8 @@
+prefix=/home/nichotelo/ros/uwb_ws/devel
+
+Name: ins_uwb_positioning
+Description: Description of ins_uwb_positioning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

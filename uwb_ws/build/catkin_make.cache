@@ -1,0 +1,2 @@
+gazebosensorplugins:ieuagv_localization:ins_uwb_positioning:pozyx_simulation:rosmsgs
+-DCATKIN_DEVEL_PREFIX=/home/nichotelo/ros/uwb_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nichotelo/ros/uwb_ws/install -G Unix Makefiles

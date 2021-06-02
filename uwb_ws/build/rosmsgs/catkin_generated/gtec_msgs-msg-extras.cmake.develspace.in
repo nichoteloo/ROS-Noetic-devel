@@ -1,0 +1,2 @@
+set(gtec_msgs_MESSAGE_FILES "/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/GenericRanging.msg;/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/Ranging.msg;/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/UWBRanging.msg;/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/DWRanging.msg;/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/PozyxRanging.msg;/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/RangingDiff.msg;/home/nichotelo/ros/uwb_ws/src/rosmsgs/msg/PozyxRangingWithCir.msg")
+set(gtec_msgs_SERVICE_FILES "")
