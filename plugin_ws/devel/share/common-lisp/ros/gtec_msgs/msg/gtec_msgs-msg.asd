@@ -1,0 +1,21 @@
+
+(cl:in-package :asdf)
+
+(defsystem "gtec_msgs-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "DWRanging" :depends-on ("_package_DWRanging"))
+    (:file "_package_DWRanging" :depends-on ("_package"))
+    (:file "GenericRanging" :depends-on ("_package_GenericRanging"))
+    (:file "_package_GenericRanging" :depends-on ("_package"))
+    (:file "PozyxRanging" :depends-on ("_package_PozyxRanging"))
+    (:file "_package_PozyxRanging" :depends-on ("_package"))
+    (:file "PozyxRangingWithCir" :depends-on ("_package_PozyxRangingWithCir"))
+    (:file "_package_PozyxRangingWithCir" :depends-on ("_package"))
+    (:file "Ranging" :depends-on ("_package_Ranging"))
+    (:file "_package_Ranging" :depends-on ("_package"))
+    (:file "RangingDiff" :depends-on ("_package_RangingDiff"))
+    (:file "_package_RangingDiff" :depends-on ("_package"))
+    (:file "UWBRanging" :depends-on ("_package_UWBRanging"))
+    (:file "_package_UWBRanging" :depends-on ("_package"))
+  ))
